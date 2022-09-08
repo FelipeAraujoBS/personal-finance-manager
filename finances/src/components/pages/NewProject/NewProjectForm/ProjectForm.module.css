@@ -1,0 +1,46 @@
+.form_control{
+    width: 30vw;
+    font-size: 20px;
+    margin-left: 9%;
+    height: 60vh;
+}
+.form_opt{
+    margin-left: 26%;
+    margin-top: -3%;
+    margin-bottom: 8%;
+}
+.form_opt label{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: left;
+    margin-left: -35%;
+}
+.form_opt input{
+    width: 100%;
+    height: 2.5rem;
+    margin-left: -35%;
+    margin-top: 2.5%;
+    border: 1px solid transparent;
+    background-color: white;
+}
+.form_opt select{
+    width: 100%;
+    height: 2.5rem;
+    margin-left: -35%;
+    margin-top: 2.5%;
+    border: 1px solid transparent;
+}
+.button{
+    padding: 10px 10px;
+    height: 2.5rem;
+    cursor: pointer;
+    background-color: #2e2e2e;
+    color: white;
+    font-weight: bold;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    font-size: 16px;
+}
+.button:hover{
+    color: #ffbb33;
+}

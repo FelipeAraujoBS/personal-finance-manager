@@ -1,0 +1,145 @@
+.addServices{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.addServices h1{
+    font-size: 30px;
+}
+.button{
+    padding: 12px 8px;
+    background-color: #2e2e2e;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    color: white;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.button:hover{
+    color: #ffbb33;
+}
+
+.services{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 2rem;
+    margin: 2% 0%;
+    width: 90vw;
+    height: auto;
+    flex-wrap: wrap;
+}
+
+.services h1{
+    font-size: 30px;
+}
+
+.services p{
+    margin-top: 2%;
+}
+
+.form{
+    width: 80vw;
+    height: auto;
+}
+.form_control{
+    width: 100%;
+}
+.form_opt{
+    margin-top: 2%;
+}
+.form_opt label{
+    font-size: 18px;
+    font-weight: bold;
+}
+.form_opt input{
+    width: 100%;
+    height: 2.3rem;
+    margin-top: .5rem;
+    border: 1px solid transparent;
+    border-radius: 2px;
+}
+
+.buttonForm{
+    padding: 12px 8px;
+    background-color: #2e2e2e;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    color: white;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    margin-top: 2%;
+    margin-bottom: 5%;
+    font-weight: bold;
+}
+
+.buttonForm:hover{
+    color: #ffbb33;
+}
+
+.formContainer{
+    margin-left: -9%;
+    margin-top: 1%;
+}
+
+
+/* ServiceCard */
+
+
+.sCard{
+    width: 20vw;
+    height: auto;
+    min-height: 30vh;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.sName{
+    width: 90%;
+    padding: .5rem;
+    background-color: #2e2e2e;
+    color: #ffbb33;
+    margin: 4% auto;
+    display: flex;
+    align-items: center;
+}
+.sName h1{
+    font-size: 22px;
+}
+.sInfo{
+    width: 90%;
+    padding: .5rem;
+    margin: 0 2.8%;
+    font-size: 20px;
+    padding: 0 5px;
+    font-weight: bolder;
+}
+.sInfo span{
+    font-size: 16px;
+    font-weight: lighter;
+}
+
+.sButtonContainer{
+    padding: .5rem;
+    margin: 1% 1%;
+}
+
+.sButton{
+    padding: 12px 8px;
+    background-color: #2e2e2e;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    color: white;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    display: flex;
+    gap: .25rem;
+}
+.sButton .icon{
+    margin-top: 1.7%;
+    margin-left: -1%;
+}
+.sButton:hover{
+    color: #ffbb33;
+}

@@ -1,0 +1,40 @@
+.titleContainer{
+    text-align: center;
+}
+.titleContainer button{
+    margin-top: 1%;
+    width: 20rem;
+    height: 3rem;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    background-color: #2e2e2e;
+    color: white;
+    cursor: pointer;
+}
+.titleContainer button:hover {
+    color: #ffbb33;
+}
+.projectsContainer{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 2rem;
+    margin: 2% 6.5%;
+    width: 90vw;
+    height: auto;
+    flex-wrap: wrap;
+}
+
+.noProjects{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    color: black;
+    width: 25rem;
+    height: 3rem;
+    margin: 10% auto;
+    border: 1px solid whitesmoke;
+    border-radius: 10px;
+    background-color: lightgray;
+}

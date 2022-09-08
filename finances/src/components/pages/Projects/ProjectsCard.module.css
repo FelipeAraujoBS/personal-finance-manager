@@ -1,0 +1,84 @@
+.card{
+    width: 20vw;
+    min-width: 20vw;
+    height: auto;
+    min-height: 35vh;
+    border: 1px solid grey;
+    border-radius: 3px;
+    background-color: transparent;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    color: grey;
+}
+.projectName{
+    width: 90%;
+    padding: .5rem;
+    background-color: #2e2e2e;
+    color: #ffbb33;
+    margin: 4% auto;
+    display: flex;
+    align-items: center;
+}
+.projectName h2{
+    margin-left: 1%;
+    font-size: 22px;
+}
+
+.info{
+    font-size: 18px;
+    margin: 8% 5%;
+}
+.category{
+    display: flex;
+    margin-top: 5%;
+}
+.category span{
+    display: block;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    margin-top: 2.5%;
+    margin-right: 2.5%;
+    background-color: #ccc;
+}
+
+.category .infra{
+    background-color: #FFAEBC;
+}
+.category .desenvolvimento{
+    background-color: #A0E7E5;
+}
+.category .serviços{
+    background-color: #B4F8C8;
+}
+.category .jogos{
+    background-color: #ffaeff;
+}
+.category .design{
+    background-color: #FBE7C6;
+}
+
+.buttonContainer{
+    display: flex;
+    gap: 1rem;
+    margin-left: 5%;
+    margin-top: -1%;
+}
+.buttonContainer button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 5rem;
+    height: 2.5rem;
+    background-color: whitesmoke;
+    border: 1px solid grey;
+    cursor: pointer;
+    transform: scale(1);
+}
+.buttonContainer button:hover{
+    transform: scale(1.12);
+    background-color: #2e2e2e;
+    color: #ffbb33;
+}
+.buttonContainer .icon{
+    margin-top: 5%;
+}

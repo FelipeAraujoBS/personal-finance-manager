@@ -1,0 +1,76 @@
+.emailContainer{
+    width: 100vw;
+    text-align: center;
+}
+.emailContainer h2{
+    font-size: 35px;
+    color: #2e2e2e;
+}
+.form{
+    margin-top: .5%;
+}
+
+.inputContainer input{
+    margin-top: .5%;
+    width: 30%;
+    border: none;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    border-radius: 8px;
+    height: 5vh;
+    padding: 10px;
+}
+
+.textareaContainer textarea{
+    margin-top: .5%;
+    width: 30%;
+    height: 22vh;
+    border: none;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.textareaContainer button{
+    width: 8%;
+    height: 5vh;
+    margin-left: -21.7%;
+    margin-top: .5%;
+    background-color: white;
+    border: none;
+    border-radius: 3px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    transform: scale(1);
+    font-weight: bold;
+    cursor: pointer;
+    transition: ease-in-out;
+}
+
+.textareaContainer button:hover{
+    background-color: black;
+    color: white;
+}
+
+.phone{
+    width: 100vw;
+    text-align: center;
+}
+.phone img{
+    width: 50px;
+    margin-left: -15%;
+    margin-top: 3%;
+}
+
+.phone img:hover{
+    transform: scale(1.1);
+}
+
+.phone p{
+    font-size: 20px;
+    color: #2e2e2e;
+    margin-top: -3.2%;
+    margin-left: -2.5%;
+}
+
+.phone p:hover{
+    transform: scale(1.1);
+}

@@ -1,0 +1,20 @@
+.newProject{
+    display: inline-block;
+    margin: 2% 33%;
+}
+.introForm{
+    margin-bottom: 8%;
+    margin-left: -9%;
+}
+.newProject .h1{
+    font-size: 35px;
+    font-weight: bold;
+    margin-left: 15.5%;
+}
+.newProject .p{
+    color: #A9A9A9;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 3%;
+    margin-left: 15.5%;
+}

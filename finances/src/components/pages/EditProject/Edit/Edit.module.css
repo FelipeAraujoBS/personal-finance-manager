@@ -1,0 +1,71 @@
+/* Edit Info */
+
+
+.editInfo{
+    margin-top: 2%;
+    width: 100%;
+}
+.editInfo h2{
+    margin-bottom: 1%;
+    font-size: 22px;
+}
+.editInfo h2 span{
+    color: black;
+    font-weight: 100;
+}
+
+/* EditForm */
+
+.editForm{
+    width: 100%;
+    margin: 2.5% -9%;
+}
+.editForm input{
+    width: 80vw;
+}
+.editForm select{
+    width: 80vw;
+}
+
+.form{
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+}
+
+.form_opt{
+    margin-bottom: 1%;
+}
+
+.form_opt input{
+    width: 100%;
+    height: 2.2rem;
+    margin-top: 2px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    padding: 3px;
+}
+
+.form_opt select{
+    width: 100%;
+    height: 2.2rem;
+    margin-top: 2px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    padding: 3px;
+}
+
+.button{
+    width: 18%;
+    height: 2.2rem;
+    border: 1px solid transparent;
+    background-color: #2e2e2e;
+    color: white;
+    margin-top: 2%;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    cursor: pointer;
+}
+
+.button:hover{
+    color: #ffbb33;
+}

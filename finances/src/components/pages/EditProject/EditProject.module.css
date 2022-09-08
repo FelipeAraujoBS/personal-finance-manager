@@ -1,0 +1,45 @@
+.info{
+    width: 85vw;
+    margin: 2.5% 9%;
+    border-bottom: 1px solid #2e2e2e;
+}
+.editTitle{
+    width: 85vw;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.editTitle h1{
+    background-color: #2e2e2e;
+    padding: 10px 20px;
+    color: #ffbb33;
+    border-radius: 4px;
+}
+
+.editTitle .button{
+    padding: 12px 8px;
+    background-color: #2e2e2e;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    color: white;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.editTitle .button:hover{
+    color: #ffbb33;
+}
+.addServices{
+    width: 85vw;
+    min-height: 10vh;
+    height: auto;
+    margin: 2.5% 9%;
+    border-bottom: 1px solid #2e2e2e;
+}
+
+.services{
+    width: 85vw;
+    min-height: 10vh;
+    height: auto;
+    margin: 2.5% 9%;
+}

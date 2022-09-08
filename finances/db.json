@@ -1,0 +1,58 @@
+{
+  "projects": [
+    {
+      "name": "Expenses",
+      "budget": "5000",
+      "category": "Infra",
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "MoveT",
+      "budget": "5000",
+      "category": "Desenvolvimento",
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "FlappyBird",
+      "budget": "2000",
+      "category": "Jogos",
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "name": "Portfolio",
+      "budget": "10000",
+      "category": "Design",
+      "cost": 0,
+      "services": [],
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 2,
+      "name": "Infra"
+    },
+    {
+      "id": 3,
+      "name": "Serviços"
+    },
+    {
+      "id": 4,
+      "name": "Jogos"
+    },
+    {
+      "id": 5,
+      "name": "Design"
+    }
+  ]
+}

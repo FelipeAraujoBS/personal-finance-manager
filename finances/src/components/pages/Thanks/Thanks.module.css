@@ -1,0 +1,25 @@
+.thanksContainer{
+    width: 100%;
+    text-align: center;
+}
+.messageContainer{
+    font-size: 25px;
+    color: #2e2e2e;
+    margin-top: 8%;
+}
+.messageContainer h1{
+    margin-bottom: 3%;
+}
+
+.messageContainer .a{
+    border: 1px solid black;
+    padding: 5px 10px;
+    background-color: white;
+    color: black;
+}
+
+.messageContainer .a:hover{
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+}
