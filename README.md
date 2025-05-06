@@ -77,7 +77,9 @@ Visual moderno e intuitivo
 🧠 Autor
 
 Desenvolvido por Felipe
-LinkedIn • GitHub
+
+LinkedIn:https://www.linkedin.com/in/felipe-de-araujo-b87386231/
+
 📃 Licença
 
 Este projeto está sob a licença MIT.
