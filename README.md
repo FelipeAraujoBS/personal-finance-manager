@@ -1,10 +1,10 @@
-💰 Project Budget Manager
+💰 Personal Finance Manager
 
     Um gerenciador de projetos com controle financeiro simples e funcional.
 
 📌 Descrição
 
-O Project Budget Manager é um aplicativo web desenvolvido com foco em organização financeira. Com ele, você pode:
+O PFM é um aplicativo web desenvolvido com foco em organização financeira. Com ele, você pode:
 
     Criar e gerenciar projetos;
 
@@ -58,7 +58,7 @@ Visual moderno e intuitivo
 
 📁 Estrutura de Diretórios (resumida)
 
-📦project-budget-manager
+📦personal-finance-manager
 ┣ 📂public
 ┣ 📂src
 ┃ ┣ 📂components
@@ -72,7 +72,7 @@ Visual moderno e intuitivo
 
     Veja abaixo um exemplo da interface inicial:
 
-<img src="./finances/src/components/img/preview.png>
+<img src="./finances/src/components/img/preview.png">
 
 🧠 Autor
 
