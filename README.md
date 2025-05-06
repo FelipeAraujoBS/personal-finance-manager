@@ -62,6 +62,7 @@ Veja abaixo um exemplo da interface inicial:
 
 🧠 Autor
 
-Desenvolvido por Felipe LinkedIn:https://www.linkedin.com/in/felipe-de-araujo-b87386231/
+Desenvolvido por Felipe 
+LinkedIn:https://www.linkedin.com/in/felipe-de-araujo-b87386231/
 
 📃 Licença Este projeto está sob a licença MIT.
