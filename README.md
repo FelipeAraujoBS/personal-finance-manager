@@ -68,8 +68,6 @@ Visual moderno e intuitivo
 
     Veja abaixo um exemplo da interface inicial:
 
-    <img src="./finances/src/components/img/preview.png">
-
 🧠 Autor
 
 Desenvolvido por Felipe
