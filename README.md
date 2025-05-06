@@ -28,16 +28,20 @@ Ideal para estudantes, freelancers e desenvolvedores que desejam praticar concei
 📦 Instalação e Execução
 
 # Clone o repositório
+
 git clone https://github.com/seu-usuario/project-budget-manager.git
 cd project-budget-manager
 
 # Instale as dependências
+
 npm install
 
 # Inicie o frontend
+
 npm start
 
 # Em outro terminal, inicie o "backend" (JSON Server)
+
 npm run backend
 
     O backend simula uma API usando um arquivo .json. Ideal para prototipagem.
@@ -55,18 +59,20 @@ Visual moderno e intuitivo
 📁 Estrutura de Diretórios (resumida)
 
 📦project-budget-manager
- ┣ 📂public
- ┣ 📂src
- ┃ ┣ 📂components
- ┃ ┣ 📂pages
- ┃ ┣ 📂layouts
- ┃ ┗ 📂services
- ┣ db.json (simula o banco de dados)
- ┗ package.json
+┣ 📂public
+┣ 📂src
+┃ ┣ 📂components
+┃ ┣ 📂pages
+┃ ┣ 📂layouts
+┃ ┗ 📂services
+┣ db.json (simula o banco de dados)
+┗ package.json
 
 📸 Preview
 
     Veja abaixo um exemplo da interface inicial:
+
+<img src="./finances/src/components/img/preview.png>
 
 🧠 Autor
 
