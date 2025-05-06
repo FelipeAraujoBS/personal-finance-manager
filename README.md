@@ -58,7 +58,7 @@ Editar e excluir projetos (em breve)
 
 Veja abaixo um exemplo da interface inicial:
 
-<img src="./src/components/img/preview.png">
+<img src="./finances/src/components/img/preview.png">
 
 🧠 Autor
 
